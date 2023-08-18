@@ -14,7 +14,7 @@ from email import encoders
 #_________________________________________________________________________________________________________
 class videoFunctions:
 
-    def email(self,receiver_email,video_paths,sender_email='awelege26@gmail.com', sender_password='kazuhzbeljjzpcxk'):
+    def email(self,receiver_email,video_paths,sender_email='senderEmail@gmail.com', sender_password='abckskfasdklfasfk'):
         try:
             # Connect to the SMTP server (Gmail in this case)
             with smtplib.SMTP('smtp.gmail.com', 587) as server:
