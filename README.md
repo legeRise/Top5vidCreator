@@ -15,7 +15,11 @@ Here is a video sample created by Auto Video Maker:
 Clone this repository using:
 
 ```bash
-git clone https://github.com/your_username/auto-video-maker.git
+git clone https://github.com/legeRise/ytshortmaker.git
+```
+
+```bash
+cd ytshortmaker
 ```
 
 ### Install Dependencies
