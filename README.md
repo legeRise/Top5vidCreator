@@ -8,7 +8,7 @@ Here is a video sample created by Auto Video Maker:
 [video sample](https://github.com/legerise/ytshortmaker/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
 
-## Usage
+## Usage 
 
 ### Clone Repository
 
