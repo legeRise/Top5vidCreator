@@ -56,7 +56,10 @@ python autovideomaker.py
 
 ### How to Use
 
-1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, javascript,python,java,c++,c).
+1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, javascript,python,java,c++,c). 
+
+### Note: Each keyword searches for images related to that keyword. 
+
    
 2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages,JavaScript,Python,Java,C++,C). Each "display keyword" serves as the overlay text for a corresponding "pic keyword". For instance:
 
@@ -72,15 +75,13 @@ python autovideomaker.py
 
    ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/result.png)
    
-4. Click the **Download Images** button to download images based on the provided keywords.
+4. Click the **Image Downloader** (which could have been named "download images", My Bad!) button to download images based on the provided keywords.
 
-5. Click the **Make Video** button to assemble the downloaded images into a video.
+5. Click the **Make Video** button once the downloading part completes.
 
-6. Optionally, check the **TitleBar** and click **Text on Video** to add a title bar and text overlays.
+6. Finally, click **Text on Video** (check the **TitleBar** if your keywords had the titlebar)  to add a title bar and text overlays.
 
 7. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages).
-
-Note: Each keyword searches for images related to that keyword.
 
 ### Note
 
