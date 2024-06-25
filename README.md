@@ -67,9 +67,10 @@ python autovideomaker.py
    - **Pic Keyword**: `programminglanguageicons`
      - **Display Keyword**: "Top 5 Programming Languages"
 
-   This setup means that images downloaded against the  `programminglanguageicons` keyword will display the overlay text "Top 5 Programming Languages".
+   This setup means that image downloaded against the  `programminglanguageicons` keyword will display the overlay text "Top 5 Programming Languages".
 
    so doing this
+   
    ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/instruction.png)
 
    will result in this,
@@ -86,7 +87,6 @@ python autovideomaker.py
 
 ### Note
 
-I know this could have been a one-click video maker button. This was just a beginner curiosity project, and I'm glad it works somehow.
-``` 
+I know this could have been a one-click video maker instead of having to click through 3-4 buttons. There was definitely room for improvement. But, this started as a beginner project out of curiosity, and I'm surprised it still works! So, please don't judge. 🤷‍♂️
 
-This markdown code block includes all the headings, subheadings, instructions, and notes as per your instructions.
+``` 
