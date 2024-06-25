@@ -1,7 +1,7 @@
 # Auto Video Maker
 
 Auto Video Maker is a Python tkinter application that can generate YouTube videos.
-
+ 
 ## Video Sample
 Here is a video sample created by Auto Video Maker:
 
