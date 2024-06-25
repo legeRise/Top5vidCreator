@@ -1,0 +1,13 @@
+myenv/
+images/
+resized/
+__pycache__/
+
+createdVids.txt
+display.txt
+imgPaths.txt
+names.txt
+
+output.mp4
+final_output.mp4
+

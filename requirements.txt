@@ -7,11 +7,11 @@ imageio==2.31.1
 imageio-ffmpeg==0.4.8
 moviepy==1.0.3
 numpy==1.25.2
-opencv-python==4.5.1.48
+opencv-python==4.10.0.84
 Pillow==9.2.0
 proglog==0.1.10
 progressbar==2.5
-pygoogle-image==1.0.0
+pygoogle_image==1.0.0
 python-magic-bin==0.4.14
 requests==2.31.0
 tqdm==4.66.1
