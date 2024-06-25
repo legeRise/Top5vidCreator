@@ -1,69 +1,62 @@
 # Auto Video Maker
 
-Auto Video Maker is a desktop application that allows users to create videos by downloading images based on specified keywords, and then assembling them into a video. Additional features include adding text overlays and title bars to the video, and the ability to send the final video via email.
+Auto Video Maker is a Python tkinter application that can generate YouTube videos.
 
-## Features
+## Video Sample
+Here is a video sample created by Auto Video Maker:
 
-- **Image Download**: Download images from the internet based on keywords.
-- **Video Creation**: Assemble downloaded images into a video.
-- **Text Overlay**: Add custom text overlays to the video.
-- **Title Bar**: Add a title bar to the video.
-- **Email Sharing**: Send the final video via email.
-- **Manual Download**: Option to manually download images and add them to the video.
+[Here is a video sample created using Auto Video Maker](https://github.com/user/repository/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
-## Prerequisites
-
-- Python 3.x
-- Required Python packages:
-  - tkinter
-  - pillow
-  - moviepy
-  - opencv-python
-  - smtplib
-  - pygoogle_image
-
-You can install the required packages using:
-
-```bash
-pip install pillow moviepy opencv-python pygoogle_image
-```
 
 ## Usage
 
-```markdown
-### Run the Application:
+### Clone Repository
+
+Clone this repository using:
+
+```bash
+git clone https://github.com/your_username/auto-video-maker.git
+```
+
+### Install Dependencies
+
+Install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Application
+
+To launch the GUI application, run:
 
 ```bash
 python autovideomaker.py
 ```
 
-### Interface Overview:
+### Application Interface
 
-- **Pic Keywords**: Enter keywords for image searches, separated by commas.
-- **Display Names**: Enter display names for images, separated by commas.
-- **Image Downloader**: Download images based on the provided keywords.
-- **Make Video**: Create a video from the downloaded images.
-- **Text on Video**: Add text overlays to the video.
-- **Send Email**: Send the final video to a specified email address.
+![Auto Video Maker Interface](https://path_to_your_screenshot)
 
-### Steps:
+### How to Use
 
-1. **Enter the image keywords and display names.**
-2. **Click the "Image Downloader" button to download images.**
-3. **Click the "Make Video" button to assemble the images into a video.**
-4. **Optional**: Check the "TitleBar" and click "Text on Video" to add a title bar and text overlays.
-5. **Send Email**: Use the email button to send the final video.
-```
+1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, python, javascript).
+   
+2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages, Python, JavaScript).
 
-## Directory Structure
+3. Click the **Download Images** button to download images based on the provided keywords.
 
-```markdown
-- `autovideomaker.py`: Main script to launch the GUI.
-- `functionalityClass.py`: Contains functions for video creation and other features.
-- `guiClass.py`: Handles the GUI components and interactions.
-- `assets/`: Folder containing image assets like icons.
-```
+4. Click the **Make Video** button to assemble the downloaded images into a video.
 
-## License
+5. Optionally, check the **TitleBar** and click **Text on Video** to add a title bar and text overlays.
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+6. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages).
+
+Note: Each keyword searches for images related to that keyword.
+
+### Note
+
+I know this could have been a one-click video maker button. This was just a beginner curiosity project, and I'm glad it works somehow.
+``` 
+
+This markdown code block includes all the headings, subheadings, instructions, and notes as per your instructions.
