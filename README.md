@@ -58,23 +58,27 @@ python autovideomaker.py
 
 1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, javascript,python,java,c++,c).
    
-2. **Display Keywords**: Enter display names for images (e.g., "Top 5 Programming Languages", "JavaScript"). Each "display keyword" serves as the overlay text for a corresponding "pic keyword". For instance:
+2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages,JavaScript,Python,Java,C++,C). Each "display keyword" serves as the overlay text for a corresponding "pic keyword". For instance:
 
    - **Pic Keyword**: `programminglanguageicons`
      - **Display Keyword**: "Top 5 Programming Languages"
 
    This setup means that images retrieved using the `programminglanguageicons` keyword will display the overlay text "Top 5 Programming Languages".
 
+   so doing this
+   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/instruction.png)
 
-   This means that images associated with the `programminglanguageicons` keyword will have the overlay text "Top 5 Programming Languages" displayed on them.
+   will result in this,
 
-3. Click the **Download Images** button to download images based on the provided keywords.
+   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/result.png)
+   
+4. Click the **Download Images** button to download images based on the provided keywords.
 
-4. Click the **Make Video** button to assemble the downloaded images into a video.
+5. Click the **Make Video** button to assemble the downloaded images into a video.
 
-5. Optionally, check the **TitleBar** and click **Text on Video** to add a title bar and text overlays.
+6. Optionally, check the **TitleBar** and click **Text on Video** to add a title bar and text overlays.
 
-6. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages).
+7. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages).
 
 Note: Each keyword searches for images related to that keyword.
 
