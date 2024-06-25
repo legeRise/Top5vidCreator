@@ -83,7 +83,7 @@ python autovideomaker.py
 
 6. Finally, click **Text on Video** (check the **TitleBar** if your keywords had the titlebar)  to add a title bar and text overlays.
 
-7. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages).
+7. By the end of the process, the video will be saved in the `done/` folder with the title based on the first display keyword (e.g., Top 5 Programming Languages). 
 
 ### Note
 
