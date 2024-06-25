@@ -62,12 +62,12 @@ python autovideomaker.py
    
 
 
-2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages,JavaScript,Python,Java,C++,C). Each "display keyword" serves as the overlay text for a corresponding "pic keyword". For instance:
+2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages,JavaScript,Python,Java,C++,C). Each "display keyword" is the overlay text for the corresponding "pic keyword". So in the above example:
 
    - **Pic Keyword**: `programminglanguageicons`
      - **Display Keyword**: "Top 5 Programming Languages"
 
-   This setup means that images retrieved using the `programminglanguageicons` keyword will display the overlay text "Top 5 Programming Languages".
+   This setup means that images downloaded against the  `programminglanguageicons` keyword will display the overlay text "Top 5 Programming Languages".
 
    so doing this
    ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/instruction.png)
