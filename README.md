@@ -7,7 +7,7 @@ Here is a video sample created by Auto Video Maker:
 
 [Here is a video sample created using Auto Video Maker](https://github.com/legerise/ytshortmaker/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
-![Watch the video](https://github.com/user/repository/raw/master/done/Top%205%20Programming%20Languages.mp4)
+![Watch the video](https://github.com/legerise/ytshortmaker/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
 
 
