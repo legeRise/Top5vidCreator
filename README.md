@@ -56,9 +56,14 @@ python autovideomaker.py
 
 ### How to Use
 
-1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, python, javascript).
+1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, javascript,python,java,c++,c).
    
-2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages, Python, JavaScript).
+2. **Display Keywords**: Enter display names for images (e.g., "Top 5 Programming Languages", "JavaScript"). Each "display keyword" corresponds to a "pic keyword". For example:
+
+   - **Pic Keyword**: `programminglanguageicons`
+     - **Display Keyword**: "Top 5 Programming Languages"
+
+   This means that images associated with the `programminglanguageicons` keyword will have the overlay text "Top 5 Programming Languages" displayed on them.
 
 3. Click the **Download Images** button to download images based on the provided keywords.
 
