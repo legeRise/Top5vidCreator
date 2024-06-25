@@ -22,6 +22,18 @@ git clone https://github.com/legeRise/ytshortmaker.git
 cd ytshortmaker
 ```
 
+### Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+### Activate the virtual environment
+
+```bash
+venv\scripts\activate
+```
+
 ### Install Dependencies
 
 Install the required dependencies using:
