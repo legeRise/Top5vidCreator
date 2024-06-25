@@ -52,7 +52,7 @@ python autovideomaker.py
 
 ### Application Interface
 
-![Auto Video Maker Interface](https://path_to_your_screenshot)
+![Auto Video Maker Interface]([https://path_to_your_screensho](https://github.com/legerise/ytshortmaker/raw/master/assets/interface.png)
 
 ### How to Use
 
