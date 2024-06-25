@@ -58,7 +58,7 @@ python autovideomaker.py
 
 1. **Step 1 - Pic Keywords**: Enter comma-separated keywords (e.g., programminglanguageicons, javascript,python,java,c++,c). 
 
-** Note: Each keyword searches for images related to that keyword.  **
+**Note: Each keyword searches for images related to that keyword.**
 
    
 2. **Display Keywords**: Enter display names for images (e.g., Top 5 Programming Languages,JavaScript,Python,Java,C++,C). Each "display keyword" serves as the overlay text for a corresponding "pic keyword". For instance:
