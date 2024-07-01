@@ -5,7 +5,7 @@ Auto Video Maker is a Python tkinter application that can generate YouTube video
 ## Video Sample
 Here is a video sample created by Auto Video Maker:
 
-[video sample](https://github.com/legerise/ytshortmaker/raw/master/done/Top%205%20Programming%20Languages.mp4)
+[video sample](https://github.com/legerise/ytshortmaker-tkinter-app/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
 
 ## Usage 
@@ -15,11 +15,11 @@ Here is a video sample created by Auto Video Maker:
 Clone this repository using:
 
 ```bash
-git clone https://github.com/legeRise/ytshortmaker.git
+git clone https://github.com/legeRise/ytshortmaker-tkinter-app.git
 ```
 
 ```bash
-cd ytshortmaker
+cd ytshortmaker-tkinter-app
 ```
 
 ### Create a virtual environment
@@ -52,7 +52,7 @@ python autovideomaker.py
 
 ### Application Interface
 
-![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/interface.png)
+![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker-tkinter-app/raw/master/assets/interface.png)
 
 ### How to Use
 
@@ -71,11 +71,11 @@ python autovideomaker.py
 
    so doing this
    
-   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/instruction.png)
+   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker-tkinter-app/raw/master/assets/instruction.png)
 
    will result in this,
 
-   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker/raw/master/assets/result.png)
+   ![Auto Video Maker Interface](https://github.com/legerise/ytshortmaker-tkinter-app/raw/master/assets/result.png)
    
 4. Click the **Image Downloader** (which could have been named "download images", My Bad!) button to download images based on the provided keywords.
 
