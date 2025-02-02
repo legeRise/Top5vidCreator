@@ -96,6 +96,6 @@ As of 25/06/2024 it was working (Python 3.11)
 
 
 ### An another Note
-If you are really interested in generating such videos, consider improved version of this project [ytshortmaker-backend](https://github.com/legeRise/youtube-shorts-generator.git)
+If you are really interested in generating such videos, consider improved version of this project [youtube-shorts-generator](https://github.com/legeRise/youtube-shorts-generator.git)
 
 
