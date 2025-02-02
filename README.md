@@ -7,6 +7,8 @@ Here is a video sample created by Auto Video Maker:
 
 [video sample](https://github.com/legerise/ytshortmaker-tkinter-app/raw/master/done/Top%205%20Programming%20Languages.mp4)
 
+### An another Note(2 Feb, 2025)
+If you are really interested in generating such videos, consider improved version of this project [youtube-shorts-generator](https://github.com/legeRise/youtube-shorts-generator.git) this was more of a fun project and expects a lot from you
 
 ## Usage 
 
@@ -94,8 +96,5 @@ I know this could have been a one-click video maker instead of having to click t
 
 As of 25/06/2024 it was working (Python 3.11)
 
-
-### An another Note
-If you are really interested in generating such videos, consider improved version of this project [youtube-shorts-generator](https://github.com/legeRise/youtube-shorts-generator.git)
 
 
